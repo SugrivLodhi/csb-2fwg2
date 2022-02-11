@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sugrivlodhi.github.io/csb-2fwg2/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sugrivlodhi.github.io/csb-2fwg2/static/js/main.935643a5.chunk.js",
+    "main.js.map": "https://sugrivlodhi.github.io/csb-2fwg2/static/js/main.935643a5.chunk.js.map",
+    "runtime-main.js": "https://sugrivlodhi.github.io/csb-2fwg2/static/js/runtime-main.5b56fab7.js",
+    "runtime-main.js.map": "https://sugrivlodhi.github.io/csb-2fwg2/static/js/runtime-main.5b56fab7.js.map",
+    "static/js/2.f94175b8.chunk.js": "https://sugrivlodhi.github.io/csb-2fwg2/static/js/2.f94175b8.chunk.js",
+    "static/js/2.f94175b8.chunk.js.map": "https://sugrivlodhi.github.io/csb-2fwg2/static/js/2.f94175b8.chunk.js.map",
+    "index.html": "https://sugrivlodhi.github.io/csb-2fwg2/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sugrivlodhi.github.io/csb-2fwg2/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.f94175b8.chunk.js.LICENSE.txt": "https://sugrivlodhi.github.io/csb-2fwg2/static/js/2.f94175b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b56fab7.js",
+    "static/js/2.f94175b8.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.935643a5.chunk.js"
+  ]
+}
